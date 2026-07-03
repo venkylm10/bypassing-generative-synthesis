@@ -1,0 +1,1 @@
+{"train/loss_step":0.11978162080049515,"_wandb":{"runtime":1655},"val/loss":0.29502952595551807,"_runtime":1655.398397769,"_step":2250,"epoch":149,"train/loss_epoch":0.16762657314538956,"val/mean_dice":0.6184359192848206,"best_val_dice":0.6188874840736389,"_timestamp":1.7831190058836024e+09}

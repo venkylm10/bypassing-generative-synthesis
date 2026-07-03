@@ -1,1 +1,0 @@
-{"_runtime":1199.882166969,"_timestamp":1.7831157283754544e+09,"_step":1545,"val/mean_dice":0.6615597605705261,"train/loss_step":0.09291937202215195,"epoch":102,"best_val_dice":0.6643359661102295,"train/loss_epoch":0.12886455208063125,"_wandb":{"runtime":1199},"val/loss":0.28205213447411853}

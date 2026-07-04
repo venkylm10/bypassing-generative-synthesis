@@ -1,0 +1,20 @@
+{
+  "seed": 0,
+  "missing_modality": ["t1c", "t2w"],
+  "n_train": 60,
+  "n_val": 10,
+  "n_test": 10,
+  "batch_size": 4,
+  "epochs": 150,
+  "lr": 0.001,
+  "weight_decay": 1e-05,
+  "widths": [
+    16,
+    32,
+    64,
+    128
+  ],
+  "bottleneck_extra": 256,
+  "n_classes": 4,
+  "early_stop_patience": 25
+}
